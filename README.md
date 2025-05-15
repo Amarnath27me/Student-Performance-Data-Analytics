@@ -10,7 +10,6 @@ The primary objective of this project is to understand the factors that influenc
 ## 📁 Files Included
 
 - `Student_Performance_Analysis.ipynb`: The core Jupyter notebook with data analysis, visualizations, and insights.
-- `Student Performance Data Analytics Application.pdf`: A PDF summarizing the methodology, results, and conclusions drawn from the analysis.
 
 ## 📌 Key Features
 
